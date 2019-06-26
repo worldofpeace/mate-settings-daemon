@@ -38,3 +38,5 @@ DISTCLEANFILES =		\
 
 @MSD_INTLTOOL_PLUGIN_RULE@
 
+
+-include $(top_srcdir)/git.mk

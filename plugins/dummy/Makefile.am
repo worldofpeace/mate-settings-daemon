@@ -42,3 +42,5 @@ DISTCLEANFILES =		\
 # do not copy into your plugin
 install-pluginDATA:
 install-pluginLTLIBRARIES:
+
+-include $(top_srcdir)/git.mk

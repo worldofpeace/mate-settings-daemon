@@ -98,3 +98,5 @@ CLEANFILES = 				\
 
 
 # vim: ts=8
+
+-include $(top_srcdir)/git.mk
